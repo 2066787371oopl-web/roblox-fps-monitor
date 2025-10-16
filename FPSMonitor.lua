@@ -1,4 +1,3 @@
-
 -- 📊 实时FPS显示器 v2.1 增强版
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
